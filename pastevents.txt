@@ -1,0 +1,15 @@
+seek -f abc
+seek -d abc 
+seek abc
+warp -
+touch abc.txt
+warp abc
+seek 
+seek spec
+seek -f spec ./abc
+seek -d abc
+seek spec
+seek abc
+seek abc -d
+seek abc
+seek spec
